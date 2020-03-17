@@ -1,4 +1,5 @@
 ---
 permalink: /pydb/
-title: pydb docs
+title: "pydb docs"
+layout; page
 ---
