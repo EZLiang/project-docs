@@ -1,4 +1,5 @@
 ---
 permalink: /
+title: Documentation
 ---
-Welcome to
+Welcome to [EZLiang](https://github.com/EZLiang)'s project documentations!
