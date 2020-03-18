@@ -10,4 +10,4 @@ permalink: /pydb/methods
  [exparse](../exparse/)
 
 ---
-[Home](/)
+[Home](../)
